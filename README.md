@@ -17,3 +17,5 @@ Basic RAT (which can not catch by Antivirus)</br>
 </ul>
 
 <h2>Have Enjoy!</h2>
+Tell me any wrong things in the program.
+Thanks.
